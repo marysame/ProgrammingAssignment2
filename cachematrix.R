@@ -1,4 +1,4 @@
-## Computes the inverse of a matrix and caches it to limit time-consuming computations 
+## Computes the inverse of a matrix and caches it in order to limit time-consuming computations 
 
 
 
